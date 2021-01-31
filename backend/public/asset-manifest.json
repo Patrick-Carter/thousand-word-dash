@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0bb6a481.chunk.js",
+    "main.js.map": "/static/js/main.0bb6a481.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.bad8306c.chunk.js": "/static/js/2.bad8306c.chunk.js",
+    "static/js/2.bad8306c.chunk.js.map": "/static/js/2.bad8306c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5235080396805b42ec0dd7036f8d9eb2.js": "/precache-manifest.5235080396805b42ec0dd7036f8d9eb2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.bad8306c.chunk.js.LICENSE.txt": "/static/js/2.bad8306c.chunk.js.LICENSE.txt",
+    "static/media/CheckmarkCOMP.png": "/static/media/CheckmarkCOMP.7035260d.png",
+    "static/media/ConversationHero.svg": "/static/media/ConversationHero.bf9485aa.svg",
+    "static/media/ConversationIcon.gif": "/static/media/ConversationIcon.61af6408.gif",
+    "static/media/EasyIcon.gif": "/static/media/EasyIcon.0629b76e.gif",
+    "static/media/StopwatchIcon.gif": "/static/media/StopwatchIcon.36a26f50.gif",
+    "static/media/TWDlogo.svg": "/static/media/TWDlogo.b01ff458.svg",
+    "static/media/word1.png": "/static/media/word1.7e3aa931.png",
+    "static/media/word11.png": "/static/media/word11.0f0834ae.png",
+    "static/media/word12.png": "/static/media/word12.4062ac32.png",
+    "static/media/word13.png": "/static/media/word13.da78a2dc.png",
+    "static/media/word14.png": "/static/media/word14.2960fb0a.png",
+    "static/media/word16.png": "/static/media/word16.9a4bd8e1.png",
+    "static/media/word2.png": "/static/media/word2.69b4d177.png",
+    "static/media/word4.png": "/static/media/word4.8cfc36bf.png",
+    "static/media/word5.png": "/static/media/word5.51682cdf.png",
+    "static/media/word8.png": "/static/media/word8.e8c58153.png",
+    "static/media/word9.png": "/static/media/word9.b7301db5.png",
+    "static/media/xCOMP.png": "/static/media/xCOMP.620c613b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.bad8306c.chunk.js",
+    "static/js/main.0bb6a481.chunk.js"
+  ]
+}
